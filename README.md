@@ -1,5 +1,7 @@
 # ctxsync
 
+[![ci](https://github.com/nhooyr/ctxsync/workflows/ci/badge.svg)](https://github.com/nhooyr/ctxsync/actions?query=workflow%3Aci)
+
 This package implements the standard library's sync API but allows threading a context through
 blocking methods.
 
